@@ -2,12 +2,11 @@
 
 # metacrafters_AVAX-PROOF_Project_Module_2
 
-# Customized Subnet Using HperSDK
-This Project is designed to facilitate the creation, management, and interaction of tokens within a virtual machine environment.
+# Creating customized Subnet Using HperSDK
+This Project is designed to facilitate the creation, managing them , and interacting with tokens within a virtual machine environment.
 ## Features
 * **Token Creation:** Effortlessly create new tokens.
 * **Token Management:** Manage your tokens with ease, including handling transfers and checking balances.
-* **Interoperability:** Designed for seamless integration with other virtual machine environments.
 
 ## Installation
 1. Clone the repository:
@@ -23,7 +22,7 @@ This Project is designed to facilitate the creation, management, and interaction
 ```
 ./scripts/run.sh;
 ```
-By default, this allocates all funds on the network
+
 5. Next, we'll need to build this. We can use the following command from this location to do so:
 ```
 ./scripts/build.sh
